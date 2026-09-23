@@ -56,6 +56,16 @@ VoltChain models the full payment flow — wallet → station selection → toke
 | 📊 **Blockchain status dashboard** | Live block height, network hashrate, difficulty, and last-block time |
 | 🧩 **Zero backend** | 100% client-side — runs as a static site, no server or database needed |
 
+## 📸 Screenshots
+
+| Login | Home |
+|---|---|
+| ![Login](login.png) | ![Home](home.png) |
+
+| Payment + Mining Visualization | Blockchain Status |
+|---|---|
+| ![Payment](payment-mining.png) | ![Blockchain](blockchain-status.png) |
+
 ## 🧠 How It Works
 
 ```mermaid
