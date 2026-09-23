@@ -58,13 +58,24 @@ VoltChain models the full payment flow — wallet → station selection → toke
 
 ## 📸 Screenshots
 
-| Login | Home |
-|---|---|
-| ![Login](login.png) | ![Home](home.png) |
-
-| Payment + Mining Visualization | Blockchain Status |
-|---|---|
-| ![Payment](payment-mining.png) | ![Blockchain](blockchain-status.png) |
+<table>
+<tr>
+<td align="center"><b>Login</b></td>
+<td align="center"><b>Home</b></td>
+</tr>
+<tr>
+<td><img src="zlogin.png" width="220"></td>
+<td><img src="zhome.png" width="220"></td>
+</tr>
+<tr>
+<td align="center"><b>Payment + Mining</b></td>
+<td align="center"><b>Blockchain Status</b></td>
+</tr>
+<tr>
+<td><img src="zpayment-mining.png" width="220"></td>
+<td><img src="zblockchain-status.png" width="220"></td>
+</tr>
+</table>
 
 ## 🧠 How It Works
 
